@@ -1,2 +1,2 @@
 # birthday
-This is a website for birthday wish
+This is a website to wish any on their birthday
